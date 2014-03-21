@@ -1,0 +1,29 @@
+﻿ #scroller {
+        position: relative; font-family:Verdana;
+    }
+    #scroller .innerScrollArea {
+        overflow: hidden;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+    #scroller ul {
+        padding: 0;
+        margin: 0;
+        position: relative;
+    }
+   #scroller li {
+        padding: 10px 50px 0 0;
+        margin: 0;
+        list-style-type: none;
+        position: absolute;
+        clear:left; text-align:center;
+    }
+    #scroller img { width:160px; height:160px;}
+
+    #scroller p {text-align:left; font-family:Verdana; font-size:larger;}
+
+    #scroller h5 {text-align:center;}
+    h2 {text-align:center;}

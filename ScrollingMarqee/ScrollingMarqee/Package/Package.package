@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="420a4de7-e047-48f0-8f5a-59d381f5a58e" solutionId="420a4de7-e047-48f0-8f5a-59d381f5a58e" resetWebServer="false" name="ScrollingMarqee" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="1962f8b2-2d70-412f-b814-2f5232573fe4" />
+  </features>
+</package>

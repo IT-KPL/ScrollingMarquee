@@ -1,0 +1,7 @@
+C:\Users\Jim.STAFF_NT\Documents\Visual Studio 2012\Projects\ScrollingMarqee\ScrollingMarqee\bin\Debug\ScrollingMarqee.dll
+C:\Users\Jim.STAFF_NT\Documents\Visual Studio 2012\Projects\ScrollingMarqee\ScrollingMarqee\bin\Debug\ScrollingMarqee.pdb
+C:\Users\Jim.STAFF_NT\Documents\Visual Studio 2012\Projects\ScrollingMarqee\ScrollingMarqee\bin\Debug\MarqueText.exe
+C:\Users\Jim.STAFF_NT\Documents\Visual Studio 2012\Projects\ScrollingMarqee\ScrollingMarqee\bin\Debug\MarqueText.pdb
+C:\Users\Jim.STAFF_NT\Documents\Visual Studio 2012\Projects\ScrollingMarqee\ScrollingMarqee\obj\Debug\ScrollingMarqee.csprojResolveAssemblyReference.cache
+C:\Users\Jim.STAFF_NT\Documents\Visual Studio 2012\Projects\ScrollingMarqee\ScrollingMarqee\obj\Debug\ScrollingMarqee.dll
+C:\Users\Jim.STAFF_NT\Documents\Visual Studio 2012\Projects\ScrollingMarqee\ScrollingMarqee\obj\Debug\ScrollingMarqee.pdb

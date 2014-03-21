@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Visual Web Part Feature" Id="1962f8b2-2d70-412f-b814-2f5232573fe4" Scope="Site" Title="ScrollingMarqee Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart1\Elements.xml" />
+    <ElementFile Location="VisualWebPart1\VisualWebPart1.webpart" />
+    <ElementManifest Location="Style Library\Elements.xml" />
+    <ElementFile Location="Style Library\Script\marquee.js" />
+    <ElementFile Location="Style Library\marquee.css" />
+  </ElementManifests>
+</Feature>

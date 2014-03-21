@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Style Library">
+    <File Path="Style Library\Script\marquee.js" Url="Style Library/Script/marquee.js" />
+    <File Path="Style Library\marquee.css" Url="Style Library/marquee.css" />
+  </Module>
+</Elements>
